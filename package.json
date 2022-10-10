@@ -26,3 +26,7 @@
   },
   "homepage": "https://github.com/obiora789/Pomodoro-Timer#readme"
 }
+"publishConfig": {
+   "@obiora789:registry": "https://npm.pkg.github.com"
+ }
+
